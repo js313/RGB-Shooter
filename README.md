@@ -4,7 +4,9 @@ This repository is for the game created from [Sebastian Lague's](https://www.you
 
 The original game repo is [here](https://github.com/SebLague/Create-a-Game-Source).
 
-## History
+![Game Preview](https://github.com/js313/project-images/blob/main/TopDownShooter/TopDownShooter.jpg?raw=true)
+
+## Tutorial Videos
 
 - [video 1 - player controller](https://www.youtube.com/watch?v=jdv8erC7ML8&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&index=2)
 - [video 2 - gun system](https://www.youtube.com/watch?v=rZAnnyensgs&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0&index=3)
